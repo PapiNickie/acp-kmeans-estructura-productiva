@@ -22,7 +22,7 @@ h1, h2, h3 {letter-spacing: -0.01em;}
 .nota b {font-weight: 600;}
 .lectura {font-size: 1rem; line-height: 1.6; color: #1F2A30; max-width: 860px;}
 .cifra {background: #FFFFFF; border: 1px solid #E6E0D6; border-radius: 8px; padding: .9rem 1rem; height: 100%;}
-.cifra .v {font: 700 1.9rem/1.05 'Source Serif 4', Georgia, serif; color: #1F2A30;}
+.cifra .v {font: 700 clamp(1.35rem, 2.2vw, 1.9rem)/1.05 'Source Serif 4', Georgia, serif; color: #1F2A30; white-space: nowrap;}
 .cifra .l {font-size: .86rem; color: #4A555C; margin-top: .35rem; line-height: 1.35;}
 .grupo-tarjeta {background:#FFFFFF; border:1px solid #E6E0D6; border-top: 5px solid var(--c); border-radius: 8px; padding: .9rem 1rem; height: 100%;}
 .grupo-tarjeta h4 {margin: 0 0 .3rem 0; font-size: 1.12rem;}

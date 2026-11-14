@@ -6,9 +6,9 @@ Taller individual de ACP y K-Means · Machine Learning aplicado a Economía y Fi
 
 | Entregable | Enlace |
 |---|---|
-| Aplicación desplegada | pendiente: enlace de Streamlit Community Cloud |
+| Aplicación desplegada | [acp-kmeans-colombia.streamlit.app](https://acp-kmeans-colombia.streamlit.app) |
 | Video de sustentación | pendiente: enlace del video |
-| Repositorio | este repositorio |
+| Repositorio | [github.com/PapiNickie/acp-kmeans-estructura-productiva](https://github.com/PapiNickie/acp-kmeans-estructura-productiva) |
 
 ## Contexto y pregunta
 
