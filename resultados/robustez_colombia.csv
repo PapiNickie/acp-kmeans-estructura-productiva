@@ -1,0 +1,13 @@
+componentes,K,silueta_promedio,tam_grupo_colombia,silueta_colombia,con_mexico,latinoamericanos
+2,3,0.4757,29,0.4457,False,"Bolivia, Brasil, Chile, Cuba, Ecuador, Panamá, Perú"
+2,4,0.4362,26,0.301,False,"Bolivia, Brasil, Chile, Cuba, Ecuador, Panamá, Perú"
+2,5,0.4486,22,0.3893,False,"Bolivia, Brasil, Chile, Cuba, Ecuador, Panamá, Perú"
+2,6,0.4326,19,0.4905,False,"Argentina, Bolivia, Brasil, Cuba, Ecuador, Panamá, Perú, Uruguay"
+3,3,0.3869,26,0.3316,False,"Bolivia, Brasil, Chile, Ecuador, Panamá, Perú"
+3,4,0.3353,27,0.2787,False,"Bolivia, Brasil, Chile, Ecuador, Panamá, Perú"
+3,5,0.3304,25,0.1399,False,"Bolivia, Brasil, Chile, Ecuador, Panamá, Perú"
+3,6,0.3254,20,0.1391,False,"Bolivia, Brasil, Chile, Panamá, Perú"
+4,3,0.3423,26,0.2992,False,"Bolivia, Brasil, Chile, Ecuador, Panamá, Perú"
+4,4,0.2864,27,0.2424,False,"Bolivia, Brasil, Chile, Ecuador, Panamá, Perú"
+4,5,0.2791,22,0.0724,False,"Bolivia, Brasil, Chile, Panamá, Perú"
+4,6,0.2831,19,0.1052,False,"Bolivia, Brasil, Chile, Panamá, Perú"

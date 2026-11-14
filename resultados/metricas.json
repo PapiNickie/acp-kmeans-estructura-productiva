@@ -1,0 +1,128 @@
+{
+ "n_panel_obs": 33809,
+ "n_economias_panel": 217,
+ "n_modelo": 128,
+ "n_excluidas_pob": 57,
+ "n_excluidas_na": 32,
+ "varianza_pct": [
+  43.3,
+  19.0,
+  12.8,
+  8.0
+ ],
+ "acumulada_3_pct": 75.2,
+ "valores_propios": [
+  4.768,
+  2.091,
+  1.413,
+  0.884
+ ],
+ "silueta_por_k": {
+  "2": 0.365,
+  "3": 0.387,
+  "4": 0.335,
+  "5": 0.33,
+  "6": 0.325,
+  "7": 0.338,
+  "8": 0.32,
+  "9": 0.306,
+  "10": 0.298
+ },
+ "silueta_k4": 0.335,
+ "negativas_k4": [
+  "Brasil",
+  "Georgia",
+  "Filipinas",
+  "Sudáfrica"
+ ],
+ "tam_grupos": {
+  "A": 38,
+  "B": 33,
+  "C": 30,
+  "D": 27
+ },
+ "pib_pc_mediano": {
+  "A": 45875,
+  "B": 4009,
+  "C": 19423,
+  "D": 19538
+ },
+ "colombia": {
+  "grupo": "D",
+  "silueta": 0.279,
+  "vecinos": [
+   "Brasil",
+   "Ecuador",
+   "Armenia",
+   "Perú",
+   "Bolivia",
+   "Sudáfrica"
+  ],
+  "va_agro": 7.9,
+  "va_manuf": 11.0,
+  "va_servicios": 57.6,
+  "rentas_rn": 4.1,
+  "empleo_agro": 15.0,
+  "empleo_industria": 20.1,
+  "urbana": 77.9,
+  "export_pib": 16.8,
+  "x_manuf": 20.8,
+  "x_extractivas": 51.0,
+  "alta_tec": 8.8,
+  "pib_pc_ppa": 17489.3
+ },
+ "medianas_grupo": {
+  "A": {
+   "va_agro": 1.9,
+   "va_manuf": 11.8,
+   "va_servicios": 66.8,
+   "rentas_rn": 0.3,
+   "empleo_agro": 3.6,
+   "empleo_industria": 20.2,
+   "urbana": 79.3,
+   "export_pib": 39.1,
+   "x_manuf": 64.7,
+   "x_extractivas": 8.7,
+   "alta_tec": 13.9
+  },
+  "B": {
+   "va_agro": 21.5,
+   "va_manuf": 10.3,
+   "va_servicios": 47.3,
+   "rentas_rn": 5.1,
+   "empleo_agro": 47.4,
+   "empleo_industria": 14.6,
+   "urbana": 37.9,
+   "export_pib": 22.2,
+   "x_manuf": 13.5,
+   "x_extractivas": 15.7,
+   "alta_tec": 2.4
+  },
+  "C": {
+   "va_agro": 7.4,
+   "va_manuf": 18.4,
+   "va_servicios": 56.4,
+   "rentas_rn": 1.1,
+   "empleo_agro": 16.8,
+   "empleo_industria": 27.0,
+   "urbana": 57.9,
+   "export_pib": 43.6,
+   "x_manuf": 78.5,
+   "x_extractivas": 6.7,
+   "alta_tec": 8.1
+  },
+  "D": {
+   "va_agro": 4.8,
+   "va_manuf": 11.0,
+   "va_servicios": 54.3,
+   "rentas_rn": 13.6,
+   "empleo_agro": 15.0,
+   "empleo_industria": 20.1,
+   "urbana": 76.0,
+   "export_pib": 41.8,
+   "x_manuf": 14.4,
+   "x_extractivas": 65.7,
+   "alta_tec": 5.3
+  }
+ }
+}
